@@ -1,0 +1,25 @@
+<div class="form-froup row">
+    <label class="col-sm-2 col-form-label">Customer Name</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="name" placeholder="Enter Name">
+    </div>
+    <label class="col-sm-2 col-form-label">Description</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="description" placeholder="Enter description">
+    </div>
+    <label class="col-sm-2 col-form-label">Rate</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="rate" placeholder="Enter rate">
+    </div>
+    <label class="col-sm-2 col-form-label">Barcode</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="barcode" placeholder="Enter barcode">
+    </div>
+</div>
+
+<button (click)="addProduct()" *ngIf="pro.id==0" class="btn btn-primary">
+    Add
+</button>
+<button (click)="UpdateProduct()" *ngIf="pro.id != 0" class="btn btn-primary">
+    Update
+</button>

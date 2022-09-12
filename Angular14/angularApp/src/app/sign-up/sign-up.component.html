@@ -1,0 +1,44 @@
+<div style="width:50%;margin:0 auto;" class="Signupdiv">
+<form class="row g-3">
+    <div class="col-md-6">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" [(ngModel)]="email" placeholder="name@example.com" id="TxtEmail" class="form-control" >
+    </div>
+    <div class="col-md-6">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" [(ngModel)]="password" placeholder="Enter Password" id="TxtPassword" class="form-control" >
+    </div>
+    <div class="col-12">
+        <label for="address1" class="form-label">Address1</label>
+        <input type="text" [(ngModel)]="address1" placeholder="1234 main st" id="Txtaddress1" class="form-control" >
+    </div>
+    <div class="col-12">
+        <label for="address2" class="form-label">Address2</label>
+        <input type="text" [(ngModel)]="address2" placeholder="Apartment, studio or floor" id="Txtaddress2" class="form-control" >
+    </div>
+    <div class="col-md-6">
+        <label for="city" class="form-label">City</label>
+        <input type="text" [(ngModel)]="city" placeholder="Enter City" id="Txtcity" class="form-control" >
+    </div>
+    <div class="col-md-4">
+        <label for="state" class="form-label">State</label>
+        <select id="selstate" class="form-select">
+            <option selected>--Choose--</option>
+            <option>Chennai</option>
+            <option>Bangalure</option>
+            <option>Delhi</option>
+            <option>Kolkatta</option>
+            <option>Mumbai</option>
+            <option>Lucknow</option>
+            <option>Jaipur</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <label for="zip" class="form-label"> Zip</label>
+        <input type="text" [(ngModel)]="zip" placeholder="Enter Zip" class="form-control">
+    </div>
+    <div class="d-grid">
+        <button type="submit" class="btn btn-primary btn-login">Sign In</button>
+    </div>
+</form>
+</div>

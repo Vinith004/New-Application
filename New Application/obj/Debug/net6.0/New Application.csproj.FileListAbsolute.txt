@@ -1,0 +1,41 @@
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\appsettings.Development.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\appsettings.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\New Application.exe
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\New Application.deps.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\New Application.runtimeconfig.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\New Application.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\New Application.pdb
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.csproj.AssemblyReference.cache
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.AssemblyInfoInputs.cache
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.AssemblyInfo.cs
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.csproj.CoreCompileInputs.cache
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\staticwebassets.build.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\staticwebassets.development.json
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\scopedcss\bundle\New Application.styles.css
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.csproj.CopyComplete
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\refint\New Application.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.pdb
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\New Application.genruntimeconfig.cache
+E:\Vinith\ASP.Net Core 6\New Application\New Application\obj\Debug\net6.0\ref\New Application.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Dapper.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperApplication.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperCore.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperInfrastructure.dll
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperApplication.pdb
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperCore.pdb
+E:\Vinith\ASP.Net Core 6\New Application\New Application\bin\Debug\net6.0\DapperInfrastructure.pdb
